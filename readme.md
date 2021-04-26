@@ -22,10 +22,10 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen.
 ---
 * Übersicht über die Ressource
 * Rechner ausschalten wenn Ziel erreicht ist
+* Event Point Tracker
 
 ### Clanboss Simulator
 * Simuliere CB-Kampfe mit deinen Champions. Viele Werte werden von deinen Champions übernommen. Übermäßige Konfiguration fällt weg.
-⚠️AKTUELL NOCH UNDER CONSTRUCTION⚠️
 
 ### Champion-Index
 * List aller deiner Chamions und deren Werte und Buffs
@@ -37,6 +37,7 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen.
 * Bundle Calculator
 * Formeln
 * Resistance Accuracy Compare
+* Mercy Counter Tracker
 
 ## INFO
 ‼️Das Tool funktionier ausschließlich mit Windows‼️  
