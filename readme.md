@@ -1,7 +1,7 @@
 # RSL-Helper 
 by Farbstoff
 
-Dies ist ein kostenloses, von Farbstoff, mit viel Liebe entwickeltes Tool  
+Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool,  
 das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen. 
 
 ![rsl-helper](../assets/clicker.png?raw=true)  
@@ -10,17 +10,17 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen.
 ### Autoclicker
 * Anzahlgesteuerte Runs  
 * Runs nach Eventpunkten
-* Runs bis ein angegeben Anzahl an Potions (T3) erreicht ist
-* Runs bis alle Champion Max-Level haben (Leader ausgeschlossen. Der MUSS Max-Level haben)
-* Runs bis Maximale Anzahl an Rollen für alle Champs erreicht ist
+* Runs bis eine angegebene Anzahl an Potions (T3) erreicht ist
+* Runs bis alle Champions Max-Level haben (Leader ausgeschlossen. Der MUSS Max-Level haben)
+* Runs bis Maximale Anzahl an Rollen für alle Champions erreicht ist
 * Runs so lange bis ein Champion Max-Level erreicht hat (Leader ausgeschlossen. Der MUSS Max-Level haben)
-* Runs bis die Energie aufgebraucht ist (wartet bis Enegie sich füllt. Läuft also endlos)
+* Runs bis die Energie aufgebraucht ist (wartet bis Energie sich füllt, läuft also endlos)
 ---
-* Automatisches nachfüllen der Energie
-* Automatisches verkaufen von Artefakten (konfigurierbar welche)
+* Automatisches Nachfüllen der Energie
+* Automatisches Verkaufen von Artefakten (konfigurierbar welche)
 * Automatisches Herstellen von Artefakten in der Schmiede
 ---
-* Übersicht über die Ressource
+* Übersicht über die Ressourcen
 * Rechner ausschalten wenn Ziel erreicht ist
 * Event Point Tracker
 
@@ -28,9 +28,9 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen.
 * Simuliere CB-Kampfe mit deinen Champions. Viele Werte werden von deinen Champions übernommen. Übermäßige Konfiguration fällt weg.
 
 ### Champion-Index
-* List aller deiner Chamions und deren Werte und Buffs
+* Liste aller deiner Champions und deren Werte und Buffs
 * Filterbar nach Fraktion / Affinität / Seltenheitsgrad / Name und Level
-* Doppelklick auf den Chamion öffent die Details zu jenem
+* Doppelklick auf den Champion öffnet die Details zu jenem
 * Anzahl der Champions im Besitz
 
 ### Tools
