@@ -40,9 +40,11 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen.
 * Mercy Counter Tracker
 
 ## INFO
-‼️Das Tool funktionier ausschließlich mit Windows‼️  
+‼️Das Tool funktionier ausschließlich mit Windows | This tool is only for Windows‼️  
 Es ist **NICHT** geplant den Klicker für ein anderes Betriebssystem zur Verfügung zu stellen.
+There will be **NO** Mac or Mobile version in furture.
 
+Farbstoff is not a professional developer. Its just a hobby.
 
 
 Ein Beweggrund ist es EIN Tool für alles zu haben und nicht an 20 Stellen irgendwelche Tools aufzurufen.
