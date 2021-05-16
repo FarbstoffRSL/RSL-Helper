@@ -1,6 +1,8 @@
 # RSL-Helper 
 by Farbstoff
 
+[Discord](https://discord.gg/xTUdhsE)
+
 Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool,  
 das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen. 
 
