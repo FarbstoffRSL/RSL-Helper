@@ -17,14 +17,18 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu
 * Anzahlgesteuerte Runs  
 * Runs nach Eventpunkten
 * Runs bis eine angegebene Anzahl an Potions (T3) erreicht ist
+* Start Timer
+* Runs bis alle Champions Max-Level haben (dann wechselt er die vorher configurierten Champion) (Leader ausgeschlossen. Der MUSS Max-Level haben)
 * Runs bis alle Champions Max-Level haben (Leader ausgeschlossen. Der MUSS Max-Level haben)
 * Runs bis Maximale Anzahl an Rollen für alle Champions erreicht ist
 * Runs so lange bis ein Champion Max-Level erreicht hat (Leader ausgeschlossen. Der MUSS Max-Level haben)
 * Runs bis die Energie aufgebraucht ist (wartet bis Energie sich füllt, läuft also endlos)
+* Herunterfahren wenn Aufgabe erledigt ist
 ---
 * Automatisches Nachfüllen der Energie
 * Automatisches Verkaufen von Artefakten (konfigurierbar welche)
 * Automatisches Herstellen von Artefakten in der Schmiede
+* Automatische FPS Erkennung
 ---
 * Übersicht über die Ressourcen
 * Rechner ausschalten wenn Ziel erreicht ist
@@ -44,6 +48,13 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu
 * Formeln
 * Resistance Accuracy Compare
 * Mercy Counter Tracker
+
+## Event Tracker
+* Events Tracken
+* Bei erreichen der Punkte aufhören
+
+## Shard Tracker
+* Aktuell durch Änderungen von Plarium nur lokales bzw. manuelles Tracking möglich!
 
 ## INFO
 ‼️Das Tool funktioniert ausschließlich mit Windows | This tool is only for Windows‼️   
