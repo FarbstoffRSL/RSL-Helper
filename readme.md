@@ -7,10 +7,10 @@ by Farbstoff
 
 [<img src="https://gvaw.web.id/wp-content/uploads/2020/06/discord.png" alt="Discord" width="150">](https://discord.gg/xTUdhsE)
 
-Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool,  
-das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen. 
+Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool  
+das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu erleichtern. 
 
-![rsl-helper](../assets/clicker.png?raw=true)  
+![rsl-helper](../assets/RSLHelper2.0.png?raw=true)  
 
 ## Features
 ### Autoclicker
@@ -46,7 +46,7 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen.
 * Mercy Counter Tracker
 
 ## INFO
-‼️Das Tool funktionier ausschließlich mit Windows | This tool is only for Windows‼️   
+‼️Das Tool funktioniert ausschließlich mit Windows | This tool is only for Windows‼️   
 Es ist **NICHT** geplant den Klicker für ein anderes Betriebssystem zur Verfügung zu stellen.
 There will be **NO** Mac or Mobile version in furture.
 
