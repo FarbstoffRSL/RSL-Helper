@@ -1,9 +1,6 @@
 # RSL-Helper 
 by Farbstoff
 
-**ACHTUNG!!!!** PLARIUM HAT AKTUELL DIE INFOS FÜR DAS MERCY SYSTEM ENTFERNT
-
-
 [<img src="https://gvaw.web.id/wp-content/uploads/2020/06/discord.png" alt="Discord" width="150">](https://discord.gg/xTUdhsE)
 
 Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool  
