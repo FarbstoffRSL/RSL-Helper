@@ -1,0 +1,16 @@
+name: Feature Request
+description: File a feature request / enhancement request
+labels: [enhancement]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thanks for helping to imporve the helper by coming up with fresh ideas!
+- type: textarea
+  id: improvement
+  attributes:
+    label: What is your idea of enhancement?
+    description: Explain your idea and write some about why you think this could be an enhancement.
+    placeholder: My idea is...
+  validations:
+    required: true
