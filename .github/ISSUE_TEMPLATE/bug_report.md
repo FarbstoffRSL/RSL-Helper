@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Existing feature does not behave as expected
 title: ''
 labels: bug
 assignees: ''
