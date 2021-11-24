@@ -55,7 +55,7 @@ body:
     id: bug-description
     attributes:
       label: Bug description
-      description: What happened?
+      description: Please describe the bug you experience as precisely as possible.
     validations:
       required: true
   - type: textarea
