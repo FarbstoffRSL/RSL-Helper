@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Official Discord
+    url: https://discord.gg/farbstoff
+    about: Go to our discord if you prefer a normale discussion.
