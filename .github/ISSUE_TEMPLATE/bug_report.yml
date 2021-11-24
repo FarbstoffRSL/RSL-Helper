@@ -1,6 +1,6 @@
 name: Bug Report
 description: Existing feature does not behave as expected
-lables: Bug
+labels: [bug]
 body:
   - type: markdown
     attributes:
