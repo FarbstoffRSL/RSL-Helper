@@ -1,4 +1,4 @@
-name: Bug
+name: Bug Report
 description: File a bug report
 body:
   - type: markdown
@@ -9,20 +9,37 @@ body:
         ---
         
         Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
-  - type: input
+  - type: dropdown
     id: os
     attributes:
       label: Operating system
-      description: "Which operating system do you use? Please provide the version as well."
-      placeholder: "macOS Big Sur 11.5.2"
+      description: "Which operating system do you use?"
+      options:
+        - Windows 7
+        - Windows 8
+        - Windows 10
+        - Windows 11
+        - Other windows version. (please specify in the description!)
     validations:
-      required: true  
-  - type: input
-    id: laravel
+      required: true 
+  - type: dropdown
+    id: systemlang
     attributes:
-      label: Laravel Version
-      description: "Please provide the full Laravel version of your project."
-      placeholder: "v8.6.1"
+      label: Systemlanguage
+      description: "Which system language do you use?"
+      options:
+        - German (DE)
+        - English (EN)
+        - Russian (RU)
+        - Other windows language. (please specify in the description!)
+    validations:
+      required: true 
+  - type: input
+    id: gameversion
+    attributes:
+      label: Current Game-Version
+      description: "Please provide the current game version you use."
+      placeholder: "v2.9.1.4"
     validations:
       required: true
   - type: input
@@ -33,17 +50,7 @@ body:
       placeholder: "PHP 8.0.7, built: Jun  4 2021 01:50:04"
     validations:
       required: true
-  - type: dropdown
-    id: location
-    attributes:
-      label: Project Location
-      description: Where is the project located?
-      options:
-        - Local
-        - Remote
-        - Somewhere else (please specify in the description!)
-    validations:
-      required: true
+  
   - type: textarea
     id: bug-description
     attributes:
