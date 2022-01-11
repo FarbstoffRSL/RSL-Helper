@@ -6,6 +6,8 @@ by Farbstoff
 Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool  
 das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu erleichtern. 
 
+**!!!ACHTUNG!!!** Das Projekt zu "forken" bringt nichts, da der Code an sich nicht im Git hinterlegt ist
+
 ![rsl-helper](../assets/RSLHelper2.0.png?raw=true)  
 
 ## Features
