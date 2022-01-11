@@ -2,6 +2,7 @@
 by Farbstoff
 
 **CAUTION!!!!** PLARIUM CURRENTLY REMOVED THE MERCY SYSTEM INFORMATION  
+**CAUTION!!!!** NO NEED TO FORK SINCE THERE IS NO ACTUAL SOURCE ON GIT
 
 
 [<img src="https://gvaw.web.id/wp-content/uploads/2020/06/discord.png" alt="Discord" width="150">](https://discord.gg/xTUdhsE)
