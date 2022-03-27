@@ -28,44 +28,44 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu
 ---
 * Automatisches Nachfüllen der Energie
 * Automatisches Verkaufen von Artefakten (konfigurierbar welche)
-![rsl-helper](../assets/Client/v3/autosell.png?raw=true) 
+![rsl-helper-sell](../assets/Client/v3/autosell.png?raw=true) 
 * Automatisches leveln von Food
-![rsl-helper](../assets/Client/v3/setFood.png?raw=true) 
+![rsl-helper-food](../assets/Client/v3/setFood.png?raw=true) 
 * Automatisches Herstellen von Artefakten in der Schmiede
 * Automatische FPS Erkennung
 ---
 * Übersicht über die Ressourcen  
-![rsl-helper](../assets/Client/v3/resources.png?raw=true) 
+![rsl-helper-resources](../assets/Client/v3/resources.png?raw=true) 
 
 ### Clanboss Simulator
 * Simuliere CB-Kampfe mit deinen Champions. Viele Werte werden von deinen Champions übernommen. Übermäßige Konfiguration fällt weg.
-![rsl-helper](../assets/Client/v3/cbsim.png?raw=true) 
+![rsl-helper-sim](../assets/Client/v3/cbsim.png?raw=true) 
 
 ### Champion-Index
 * Liste aller deiner Champions und deren Werte und Buffs
 * Filterbar nach Fraktion / Affinität / Seltenheitsgrad / Name und Level
 * Doppelklick auf den Champion öffnet die Details zu jenem
 * Anzahl der Champions im Besitz
-![rsl-helper](../assets/Client/v3/championIndex.png?raw=true) 
+![rsl-helper-index](../assets/Client/v3/championIndex.png?raw=true) 
 
 ### Tools
 * Bundle Rechner
 * Formeln
 * Widerstands- und Genauigkeitsvergleich
 * Schadensrechner
-![rsl-helper](../assets/Client/v3/tools.png?raw=true) 
+![rsl-helper-tools](../assets/Client/v3/tools.png?raw=true) 
 
 ## Event Tracker
 * Events Tracken
 * Bei erreichen der Punkte aufhören
-![rsl-helper](../assets/Client/v3/eventTracker.png?raw=true) 
+![rsl-helper-event](../assets/Client/v3/eventTracker.png?raw=true) 
 
 ## Shard Tracker
 * Tracked die gezogenen Shards *  
-![rsl-helper](../assets/Client/v3/shardTracker.png?raw=true) 
+![rsl-helper-shard](../assets/Client/v3/shardTracker.png?raw=true) 
 
 ## Einstellungen
-![rsl-helper](../assets/Client/v3/settings.png?raw=true) 
+![rsl-helper-settings](../assets/Client/v3/settings.png?raw=true) 
 
 ## INFO
 ‼️Das Tool funktioniert ausschließlich mit Windows‼️  
