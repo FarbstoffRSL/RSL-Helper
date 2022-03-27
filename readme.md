@@ -8,7 +8,7 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu
 
 **!!!ACHTUNG!!!** Das Projekt zu "forken" bringt nichts, da der Code an sich nicht im Git hinterlegt ist
 
-![rsl-helper](../assets/RSLHelper2.0.png?raw=true)  
+![rsl-helper](../assets/Client/v3/main.png?raw=true)  
 
 ## Features
 ### Autoclicker
@@ -28,34 +28,44 @@ das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu
 ---
 * Automatisches Nachfüllen der Energie
 * Automatisches Verkaufen von Artefakten (konfigurierbar welche)
+![rsl-helper](../assets/Client/v3/autosell.png?raw=true) 
+* Automatisches leveln von Food
+![rsl-helper](../assets/Client/v3/setFood.png?raw=true) 
 * Automatisches Herstellen von Artefakten in der Schmiede
 * Automatische FPS Erkennung
 ---
-* Übersicht über die Ressourcen
+* Übersicht über die Ressourcen  
+![rsl-helper](../assets/Client/v3/resources.png?raw=true) 
 
 ### Clanboss Simulator
 * Simuliere CB-Kampfe mit deinen Champions. Viele Werte werden von deinen Champions übernommen. Übermäßige Konfiguration fällt weg.
+![rsl-helper](../assets/Client/v3/cbsim.png?raw=true) 
 
 ### Champion-Index
 * Liste aller deiner Champions und deren Werte und Buffs
 * Filterbar nach Fraktion / Affinität / Seltenheitsgrad / Name und Level
 * Doppelklick auf den Champion öffnet die Details zu jenem
 * Anzahl der Champions im Besitz
+![rsl-helper](../assets/Client/v3/championIndex.png?raw=true) 
 
 ### Tools
 * Bundle Rechner
 * Formeln
 * Widerstands- und Genauigkeitsvergleich
 * Schadensrechner
+![rsl-helper](../assets/Client/v3/tools.png?raw=true) 
 
 ## Event Tracker
 * Events Tracken
 * Bei erreichen der Punkte aufhören
+![rsl-helper](../assets/Client/v3/eventTracker.png?raw=true) 
 
 ## Shard Tracker
 * Tracked die gezogenen Shards *  
+![rsl-helper](../assets/Client/v3/shardTracker.png?raw=true) 
 
-\* Aktuell durch Änderungen von Plarium nur lokales bzw. manuelles Tracking möglich!
+## Einstellungen
+![rsl-helper](../assets/Client/v3/settings.png?raw=true) 
 
 ## INFO
 ‼️Das Tool funktioniert ausschließlich mit Windows‼️  
