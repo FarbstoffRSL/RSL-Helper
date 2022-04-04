@@ -1,15 +1,14 @@
 name: Run problem
-description: Existing feature does not behave as expected
+description: When helper doesnt start and its obviously not a bug in the helper
 labels: [run problem]
 body:
   - type: markdown
     attributes:
       value: |
-        Before opening a bug report, please search for the behaviour in the existing issues. 
+        Before opening a run problem report, please search for the behaviour in the existing issues. 
         
         ---
-        
-        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+  
   - type: dropdown
     id: os
     attributes:
@@ -55,15 +54,15 @@ body:
   - type: textarea
     id: bug-description
     attributes:
-      label: Bug description
-      description: Please describe the bug you experience as precisely as possible.
+      label: Description
+      description: Please describe what happens and why the helper seems to not start.
     validations:
       required: true
   - type: textarea
     id: steps
     attributes:
       label: Steps to reproduce
-      description: Which steps do we need to take to reproduce this error?
+      description: Which steps do we may need to take to reproduce this behavior?
   - type: textarea
     id: logs
     attributes:
