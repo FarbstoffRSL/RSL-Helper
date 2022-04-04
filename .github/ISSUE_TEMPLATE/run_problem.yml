@@ -1,6 +1,6 @@
 name: Run problem
 description: When helper doesnt start and its obviously not a bug in the helper
-labels: [run problem]
+labels: ["run problem"]
 body:
   - type: markdown
     attributes:
