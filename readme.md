@@ -2,6 +2,9 @@
 by Farbstoff
 
 [<img src="https://gvaw.web.id/wp-content/uploads/2020/06/discord.png" alt="Discord" width="150">](https://discord.gg/xTUdhsE)
+[<img src="http://cdn.shopify.com/s/files/1/2563/5586/products/youtube_1200x1200.png?v=1609265702" alt="Youtube" width="150">](https://www.youtube.com/channel/UCga-mqpDBH0HYrindxr37Tw) - 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twitch_logo.svg/800px-Twitch_logo.svg.png" alt="Twitch" width="150">](https://www.twitch.tv/farbstoffrsl) &nbsp;&nbsp;&nbsp;
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/851604638011662253/6B4BBF6ABEC51D4B8C238E32AC352A5E5A8EC902/" alt="Donate" width="150">](https://www.paypal.com/donate/?hosted_button_id=ADYJRS8A35CC6)
 
 Dies ist ein kostenloses, von Farbstoff mit viel Liebe entwickeltes Tool  
 das helfen soll bestimmte Aufgaben in Raid Shadow Legends zu übernehmen oder zu erleichtern. 
